@@ -7,8 +7,8 @@ class Song
     @@all << self
   end
 
-  def save 
-    @@all << self 
+  def save
+    @@all << self
   end 
 
   def self.all
@@ -16,6 +16,6 @@ class Song
   end
 
   def artist_name
-    @artist 
+    @artist
   end
 end
