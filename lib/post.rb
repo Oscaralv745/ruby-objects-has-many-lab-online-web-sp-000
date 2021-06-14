@@ -14,4 +14,8 @@ class Post
   def self.all
     @@all
   end
+
+  def author_name 
+    
+  end 
 end
